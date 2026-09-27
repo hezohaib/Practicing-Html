@@ -6,6 +6,8 @@ This repository contains my HTML practice projects and exercises while learning 
 
 - Favorite Game
 - Recipe Page
+- DucksPhotoApp
+- Movies Page
 - Other HTML practice files
 
 ## Technologies
